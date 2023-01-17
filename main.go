@@ -1,12 +1,11 @@
 package main
 
-import "fmt"
+// import "fmt"
 
 func main() {
 
-	var conferenceName = "Go Conference"
-	var totalTicketCount uint = 50
+	cards := newDeck()
 
-	fmt.Printf("Welcome to %v \n", conferenceName)
-	fmt.Printf("We have total %v tickets available \n", totalTicketCount)
+	cards.print()
+
 }
