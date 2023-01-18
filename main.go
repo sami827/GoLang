@@ -4,8 +4,8 @@ package main
 
 func main() {
 
-	cards := newDeck()
+	cards := openCardsFromLocal("my_cards")
 
-	cards.saveToLocal("my_cards")
+	cards.print()
 
 }
