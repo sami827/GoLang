@@ -1,1 +1,1 @@
-# GoLang
+Hey there!getting started with GoLang, and started creating a card game along with the tutorial I'm watching. Hopefully you'll have something useful here. Cheers! 
